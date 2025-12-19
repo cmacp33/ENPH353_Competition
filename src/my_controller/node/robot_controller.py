@@ -280,6 +280,7 @@ class Robot:
         
         return middle
 
+	
     # returns the x and y coords for the center of the largest contour (from lower_thresh to upper_thresh) in img
     def center_2D(self, img, lower_thresh, upper_thresh):
 
