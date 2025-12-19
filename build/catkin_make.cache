@@ -1,0 +1,2 @@
+2024_competition/adeept_awr/adeept_awr_description:2024_competition/adeept_awr/adeept_awr_gazebo:2024_competition/enph353/enph353:2024_competition/enph353/enph353_gazebo:2024_competition/enph353/enph353_npcs:2024_competition/enph353/enph353_utils:2024_competition/robbie:my_controller:time_trials
+-DCATKIN_DEVEL_PREFIX=/home/fizzer/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fizzer/ros_ws/install -G Unix Makefiles

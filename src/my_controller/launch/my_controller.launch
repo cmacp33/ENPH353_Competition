@@ -1,0 +1,15 @@
+<launch>
+   <!-- Start the clue reader -->
+   <node pkg="my_controller"
+         type="clue_detection.py"
+         name="clue_detection"
+         output="screen">
+   </node>
+
+    <!-- Start the robot controller -->
+   <node pkg="my_controller"
+         type="robot_controller.py"
+         name="robot_controller"
+         output="screen">
+   </node>
+</launch>
